@@ -3,7 +3,9 @@
 
 **Authors:** BIXIAO ZENG, XIAODONG YANG, YIQIANG CHEN∗, HANCHAO YU, YINGWEI ZHANG
 
+**Url:** https://dl.acm.org/doi/10.1145/3519311
 
+**Cite:** Bixiao Zeng, Xiaodong Yang, Yiqiang Chen, Hanchao Yu, and Yingwei Zhang. 2022. CLC: A Consensus-based Label Correction Approach in Federated Learning. ACM Trans. Intell. Syst. Technol. 13, 5, Article 75 (October 2022), 23 pages. https://doi.org/10.1145/3519311
 
 **Getting Started**
 ---
