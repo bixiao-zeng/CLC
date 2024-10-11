@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Python version: 3.6
 
-
+import autoinstall
 import os
 import copy
 import time
